@@ -1,0 +1,6 @@
+# robots.txt for wagamamenue (https://wagamama-menu.netlify.app/)
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://wagamama-menu.netlify.app/sitemap.xml
